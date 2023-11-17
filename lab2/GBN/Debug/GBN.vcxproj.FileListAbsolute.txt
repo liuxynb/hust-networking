@@ -1,0 +1,2 @@
+C:\通信与网络实验\实验二C++\GBN\Debug\GBN.exe
+C:\Users\20963\Desktop\Grade3\计算机网络\lab\lab2\GBN\Debug\GBN.exe
